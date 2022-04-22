@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## 自己紹介
+好きな食べ物
+ハンバーグ、唐揚げ、プリン
+
+やってたスポーツ
+サッカー、水泳
+
+好きなもの
+お金、アニメ、ゲーム
+
+
+
 
 You can use the [editor on GitHub](https://github.com/mori118/200220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
